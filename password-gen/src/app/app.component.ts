@@ -8,7 +8,7 @@ import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
 })
 export class AppComponent {
 
-  password = '**********';
+  password = '';
   includeLetters = false;
   includeNumbers = false;
   includeSymbols = false;
